@@ -31,6 +31,6 @@ Classic Snake game implemented as a Windows MFC application.
 
 <!-- Add game screenshot below -->
 
-![Snake Game Screenshot](images/screenshot.png)
+![Snake Game Screenshot](images/SnakeGameplaying.png)
 
 
